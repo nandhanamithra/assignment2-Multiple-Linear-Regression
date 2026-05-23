@@ -1,14 +1,17 @@
-# Assignment 1-linear-regression
-Assignment 1 about Linear Regression submitted by Mithra Nandhana B A. 
+# Assignment 2- Multiple- Linear-Regression
+Assignment 2 about Multiple Linear Regression submitted by Mithra Nandhana B A. 
 
 ## Problem Statement
-A mechanical engineer is analyzing the relationship between the applied load on a spring and the extension produced. Using the dataset given below, build a Simple Linear Regression model to study the relationship between load and extension.
+A wind energy company wants to predict the Power Output (kW) of a wind turbine
+using the following parameters:
+• Wind Speed (m/s)
+• Blade Angle (◦)
+• Rotor Speed (RPM)
 
 ## Answer
-Below,
-1. The Numerical projection of Simple Linear Regression and the slope(m) and y-intercept(c)
-2. Representation using y=mx+c
-3. Prediction of Extension in mm at Load 55 N
+Below using the normal equation and the model equation
+1. The regression coefficients 
+2. Prediction of Power output is done manually
 
 *check out the whole pdf:* `assignment1-linear-regression/numerical/simple linear regression.pdf/`
 
