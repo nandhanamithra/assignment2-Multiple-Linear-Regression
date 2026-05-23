@@ -37,6 +37,6 @@ And the Predicted Power Output is 28.20803662
 # What I Learned
 By this assignment and class, I learned:
 1. Multiple Linear Regression Model
-2. Working with complex numbers on matrix
+2. Working on matrix
 
 :D
